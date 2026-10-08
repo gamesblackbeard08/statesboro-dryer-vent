@@ -1,0 +1,19 @@
+{
+  "slug":"signs-clogged-dryer-vent",
+  "title":"Signs of a Clogged Dryer Vent | Statesboro GA",
+  "description":"Recognize common signs of a restricted dryer vent, including long drying cycles, excess heat, weak exterior airflow, lint buildup, and recurring shutdowns.",
+  "h1":"Signs Your Dryer Vent May Be Clogged",
+  "intro":"Dryer vent problems often show up first as changes in normal appliance behavior. The strongest clue is usually a pattern rather than one isolated symptom.",
+  "sections":[
+    {"h2":"Clothes take longer to dry","body":"If similar loads suddenly need extra cycles, poor exhaust airflow is one possible cause. Overloading, appliance wear, and heating problems can produce the same complaint, so the vent should be considered as part of the diagnosis."},
+    {"h2":"The dryer or laundry area feels unusually hot","body":"Restricted exhaust can keep heat and moisture around the appliance longer than expected. Excess heat is worth investigating rather than simply adding more drying time."},
+    {"h2":"Weak airflow at the exterior outlet","body":"When the dryer is running, the exterior termination should allow exhaust to leave. Very weak airflow, a stuck flap, or visible lint around the outlet can point toward restriction or damage."},
+    {"h2":"Burning or hot-lint odors","body":"Unusual odors should not be ignored. Stop using the appliance if you suspect overheating or an electrical problem and identify the source before continuing normal use."},
+    {"h2":"Recurring lint and shutdown issues","body":"Excess lint outside the normal lint screen or a dryer that repeatedly stops during operation can be another reason to investigate airflow and appliance condition."}
+  ],
+  "faqs":[
+    {"q":"Is a burning smell always caused by the vent?","a":"No. A burning smell can have several causes, including appliance faults. Stop using the dryer if you suspect overheating and have the cause evaluated."},
+    {"q":"Can a clogged vent increase drying time?","a":"Yes. Reduced airflow makes it harder for the dryer to remove moisture efficiently."}
+  ],
+  "related":["clogged-dryer-vent","dryer-vent-cleaning","dryer-vent-repair","how-often-clean-dryer-vent"]
+}

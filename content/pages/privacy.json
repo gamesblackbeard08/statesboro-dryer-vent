@@ -1,0 +1,15 @@
+{
+  "slug":"privacy",
+  "title":"Privacy Policy | Statesboro Dryer Vent",
+  "description":"Privacy policy for Statesboro Dryer Vent.",
+  "h1":"Privacy Policy",
+  "intro":"This prelaunch website is designed to collect no personal information through forms. If analytics, contact forms, call tracking, advertising, or other data collection tools are added later, this policy must be updated before those tools are enabled.",
+  "sections":[
+    {"h2":"Server and hosting data","body":"Hosting providers may process standard technical information required to deliver and secure the website, such as IP addresses, request logs, browser information, and security events."},
+    {"h2":"Contact forms","body":"No public contact form is enabled in the prelaunch build. If one is added later, this policy should state what information is collected, why it is collected, and how it is handled."},
+    {"h2":"Analytics and cookies","body":"No analytics platform is assumed in this starter build. Any analytics or advertising tools added later should be disclosed here as appropriate."},
+    {"h2":"Policy updates","body":"This page should be reviewed whenever the site's data collection, advertising, contact, or analytics setup changes."}
+  ],
+  "faqs":[],
+  "related":[]
+}

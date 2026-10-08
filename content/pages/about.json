@@ -1,0 +1,14 @@
+{
+  "slug":"about",
+  "title":"About | Statesboro Dryer Vent",
+  "description":"About Statesboro Dryer Vent, an independent local information resource focused on dryer vent cleaning, airflow, repair, and maintenance topics in Statesboro, Georgia.",
+  "h1":"About Statesboro Dryer Vent",
+  "intro":"Statesboro Dryer Vent is being developed as an independent local information resource focused on dryer exhaust systems, airflow problems, cleaning, repair, and maintenance questions relevant to Statesboro-area properties.",
+  "sections":[
+    {"h2":"Why the site exists","body":"Dryer problems can be confusing because appliance faults and vent restrictions often produce similar symptoms. This site organizes the most useful vent-specific information in one place so property owners can better understand what they are seeing and what type of service may be appropriate."},
+    {"h2":"What we do not claim","body":"Until a verified service operator is attached to this property, the site does not claim a local office, technicians, licenses, years in business, customer reviews, or completed local jobs. Those details should only be published when they are real and verifiable."},
+    {"h2":"How the site will evolve","body":"The content will be updated as search data, local questions, and service information reveal where more depth is useful. The goal is to improve the resource over time rather than mass-publish thin location pages."}
+  ],
+  "faqs":[],
+  "related":["dryer-vent-cleaning","clogged-dryer-vent","dryer-vent-cleaning-cost"]
+}

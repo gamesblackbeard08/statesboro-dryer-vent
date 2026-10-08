@@ -1,0 +1,18 @@
+{
+  "slug":"dryer-vent-cleaning-diy-vs-professional",
+  "title":"DIY vs Professional Dryer Vent Cleaning | What You Can Safely Do",
+  "description":"Compare basic DIY dryer vent maintenance with situations where long ducts, roof exits, nests, damage, or recurring airflow problems may justify professional service.",
+  "h1":"DIY vs Professional Dryer Vent Cleaning",
+  "intro":"Some dryer maintenance is straightforward. Other work involves concealed ducts, roof access, specialized cleaning equipment, or diagnosis of damage that is not visible from the laundry room. The useful question is not whether DIY is always good or bad, but where the line should be drawn.",
+  "sections":[
+    {"h2":"Reasonable homeowner maintenance","body":"Regularly clean the lint screen, keep the area around the dryer clear, look for obvious crushing or kinking behind the appliance, and inspect the accessible exterior outlet for visible blockage."},
+    {"h2":"Where DIY becomes harder","body":"Long duct runs, multiple bends, roof terminations, stacked appliances, concealed damage, compacted lint, and nesting material can make the job substantially more complicated than cleaning a short accessible vent."},
+    {"h2":"The risk of solving only the visible part","body":"A vent can look clear near the dryer while still being restricted farther downstream. Likewise, removing surface lint does not repair a separated or crushed duct."},
+    {"h2":"Know when the appliance may be the issue","body":"If airflow appears normal but drying remains poor, the problem may be inside the dryer rather than in the vent. Continuing to clean the duct will not repair an appliance fault."}
+  ],
+  "faqs":[
+    {"q":"Can I vacuum my dryer vent myself?","a":"You can clean accessible lint around the dryer and vent opening, but a household vacuum may not reach or clear a long concealed duct."},
+    {"q":"Are DIY brush kits always safe?","a":"They can be useful in some straightforward installations, but tool choice, duct condition, bends, and access matter. Stop if the process risks damaging or disconnecting the vent."}
+  ],
+  "related":["dryer-vent-cleaning","clogged-dryer-vent","dryer-vent-repair","how-often-clean-dryer-vent"]
+}

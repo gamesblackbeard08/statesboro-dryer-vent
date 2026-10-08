@@ -1,0 +1,18 @@
+{
+  "slug":"how-often-clean-dryer-vent",
+  "title":"How Often Should You Clean a Dryer Vent?",
+  "description":"Learn how dryer usage, vent length, household size, pets, roof exits, and warning signs can affect how often a dryer vent should be inspected and cleaned.",
+  "h1":"How Often Should a Dryer Vent Be Cleaned?",
+  "intro":"There is no perfect maintenance interval for every property. Dryer use, vent layout, household size, duct length, and the amount of lint moving through the system all affect how quickly restriction can develop.",
+  "sections":[
+    {"h2":"Usage matters","body":"A dryer serving a large household or high-turnover rental can move far more lint through the vent than a lightly used appliance. Usage is one reason calendar-only advice can be too simplistic."},
+    {"h2":"Vent design matters","body":"Long concealed ducts and routes with several bends can retain more lint and are harder to inspect than a very short, direct wall exit."},
+    {"h2":"Watch for changes between routine maintenance","body":"Longer drying times, unusual heat, weak exterior airflow, or lint around the termination are reasons to inspect the system even if the last cleaning was relatively recent."},
+    {"h2":"Multifamily and rental properties","body":"Property managers may prefer a documented maintenance schedule because multiple units, varying tenant habits, and turnover make individual-use patterns harder to monitor."}
+  ],
+  "faqs":[
+    {"q":"Should I wait until the dryer becomes slow before checking the vent?","a":"No. Visible symptoms are useful clues, but routine inspection can identify developing restrictions before they become obvious."},
+    {"q":"Does a short vent need the same maintenance as a long roof vent?","a":"Not necessarily. Vent length and routing affect how lint accumulates and how easy the system is to inspect."}
+  ],
+  "related":["dryer-vent-cleaning","signs-clogged-dryer-vent","commercial-dryer-vent-cleaning","dryer-vent-cleaning-diy-vs-professional"]
+}

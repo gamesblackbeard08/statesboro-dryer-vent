@@ -1,0 +1,20 @@
+{
+  "slug":"dryer-vent-repair",
+  "title":"Dryer Vent Repair & Installation Statesboro GA",
+  "description":"Learn about dryer vent repair and installation issues in Statesboro, including crushed ducts, disconnected venting, damaged caps, rerouting, and improper exhaust paths.",
+  "h1":"Dryer Vent Repair and Installation in Statesboro",
+  "intro":"Some dryer airflow problems are caused by the vent itself rather than by lint buildup. Crushed transition hoses, loose connections, damaged exterior hoods, poor routing, and disconnected ducts can all reduce airflow or allow exhaust to escape where it should not.",
+  "sections":[
+    {"h2":"Common vent repair problems","body":"Typical repair issues include crushed or kinked connections behind the dryer, separated duct joints, damaged wall or roof terminations, deteriorated vent material, and ducts that have been routed with unnecessary length or sharp turns."},
+    {"h2":"Repair versus replacement","body":"A small damaged section may be repairable, while deteriorated, inaccessible, or poorly configured ducting can make replacement or rerouting more sensible. The correct choice depends on the material, location, and cause of the problem."},
+    {"h2":"Exterior vent covers and terminations","body":"The exterior termination should allow exhaust to leave while limiting weather and animal entry. A stuck flap, damaged cover, or blocked opening can undermine an otherwise clear duct."},
+    {"h2":"New installation and rerouting","body":"Installation decisions affect future airflow and maintenance. Shorter, smoother runs with fewer unnecessary bends are generally easier to maintain than complicated routes. Building conditions determine what is practical."},
+    {"h2":"Do not confuse dryer repair with vent repair","body":"An appliance technician works on the dryer itself. Dryer vent work focuses on the exhaust path leaving the appliance. Symptoms can overlap, so identifying whether the fault is in the machine or the vent is an important first step."}
+  ],
+  "faqs":[
+    {"q":"Can a crushed hose behind the dryer cause slow drying?","a":"Yes. A crushed transition connection can restrict exhaust airflow even when the rest of the vent is relatively clean."},
+    {"q":"Should plastic vent hose be used for a permanent concealed run?","a":"Vent material requirements vary by location and application. Permanent installations should follow applicable building and manufacturer requirements rather than relying on improvised materials."},
+    {"q":"Can a dryer vent be rerouted?","a":"Often, yes, but the practical route depends on wall, ceiling, roof, and exterior access conditions."}
+  ],
+  "related":["dryer-vent-cleaning","clogged-dryer-vent","bird-nest-dryer-vent","signs-clogged-dryer-vent"]
+}
